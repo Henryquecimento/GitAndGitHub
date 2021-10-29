@@ -1,1 +1,1 @@
-console.log("Change massage")
+console.log("Change message")
